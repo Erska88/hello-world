@@ -1,5 +1,5 @@
 # hello-world
-hello-wrold projekti
+hello-world sfa
 
 kikkeliskokkelis, eka editti
 
